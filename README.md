@@ -7,6 +7,8 @@
 
 
 *gsl-lite* is an implementation of the [C++ Core Guidelines Support Library](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-gsl) originally based on [Microsoft GSL](https://github.com/microsoft/gsl).
+This fork is to repackage it for platformio by adding a library.json.
+
 
 **Contents**  
 - [Example usage](#example-usage)
