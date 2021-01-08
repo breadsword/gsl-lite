@@ -10,5 +10,7 @@
     "license": "MIT",
     "build": {
         "flags": "-Dgsl_CONFIG_DEFAULTS_VERSION=1"
-    }
+    },
+    "frameworks": "*",
+    "platforms": "*"
 }
