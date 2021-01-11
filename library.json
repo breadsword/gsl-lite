@@ -1,6 +1,6 @@
 {
     "name": "gsl-lite",
-    "version": "0.37.0",
+    "version": "0.37.1",
     "description": "Single-file, header-only ISO C++ Guidelines Support Library",
     "keywords": "gsl, c++",
     "Repository": {
@@ -9,7 +9,8 @@
     },
     "license": "MIT",
     "build": {
-        "flags": "-Dgsl_CONFIG_DEFAULTS_VERSION=1"
+        "flags": "-Dgsl_CONFIG_DEFAULTS_VERSION=1",
+        "includeDir": "include"
     },
     "frameworks": "*",
     "platforms": "*"
